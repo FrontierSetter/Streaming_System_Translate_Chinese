@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+<!-- * [Introduction](introduction.md) -->
 * [The Beam Model](part_1/the_beam_model.md)
 * [Streaming 101](section_1/streaming_101.md)
     * [Terminology:What Is Streaming](section_1/terminology.md)
